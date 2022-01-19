@@ -11,6 +11,15 @@ body {
   padding: 0 15px;
 }
 
+.menu-section {
+  margin-bottom: 40px;
+  display: block;
+}
+
+.section-header {
+  margin-bottom: 0;
+}
+
 .item {
   display: flex;
   justify-content: space-between;
